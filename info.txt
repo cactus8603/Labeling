@@ -1,0 +1,6 @@
+Flow:
+    1. 篩出相似度高的圖片，移到刪除資料夾中
+    2. 
+
+1. label:
+    [vio, hate, sex, self, safe] 
